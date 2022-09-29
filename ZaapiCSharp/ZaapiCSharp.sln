@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaapiCSharp", "ZaapiCSharp.csproj", "{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77D0B263-9053-4D0F-93DE-407F4EE39B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Debug|x64.Build.0 = Debug|Any CPU
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Release|x64.ActiveCfg = Release|Any CPU
+		{9B564F9B-4025-4D49-B8ED-096C28EB8D5B}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1775F88F-117E-4F92-84B6-B312CB29AA79}
+	EndGlobalSection
+EndGlobal
